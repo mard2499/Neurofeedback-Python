@@ -1,0 +1,20 @@
+Nombre:
+Documento:
+Sexo:
+Edad:
+21
+qwe
+e
+q
+Nivel Educativo:
+Lateralidad:
+Diagnóstico:
+Anotación:
+e
+e
+d
+f
+#Sesión:
+Promedio:
+Protocolo:
+Puntaje en juego:
